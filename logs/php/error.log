@@ -238,3 +238,65 @@ Stack trace:
 [18-May-2021 06:41:17 UTC] PHP Parse error:  syntax error, unexpected ''post_type'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/page-past-events.php on line 21
 [18-May-2021 06:46:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 36
 [18-May-2021 06:46:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 36
+[18-May-2021 17:50:56 UTC] PHP Warning:  Use of undefined constant the_post - assumed 'the_post' (this will throw an Error in a future version of PHP) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-program.php on line 18
+[18-May-2021 17:50:56 UTC] PHP Stack trace:
+[18-May-2021 17:50:56 UTC] PHP   1. {main}() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:0
+[18-May-2021 17:50:56 UTC] PHP   2. require() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:17
+[18-May-2021 17:50:56 UTC] PHP   3. require_once() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[18-May-2021 17:50:56 UTC] PHP   4. include() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[18-May-2021 17:50:56 UTC] PHP Warning:  Use of undefined constant the_post - assumed 'the_post' (this will throw an Error in a future version of PHP) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-program.php on line 18
+[18-May-2021 17:50:56 UTC] PHP Stack trace:
+[18-May-2021 17:50:56 UTC] PHP   1. {main}() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:0
+[18-May-2021 17:50:56 UTC] PHP   2. require() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:17
+[18-May-2021 17:50:56 UTC] PHP   3. require_once() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[18-May-2021 17:50:56 UTC] PHP   4. include() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[18-May-2021 17:50:56 UTC] PHP Warning:  Use of undefined constant the_post - assumed 'the_post' (this will throw an Error in a future version of PHP) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-program.php on line 18
+[18-May-2021 17:50:56 UTC] PHP Stack trace:
+[18-May-2021 17:50:56 UTC] PHP   1. {main}() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:0
+[18-May-2021 17:50:56 UTC] PHP   2. require() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:17
+[18-May-2021 17:50:56 UTC] PHP   3. require_once() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[18-May-2021 17:50:56 UTC] PHP   4. include() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[18-May-2021 18:12:04 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 29
+[18-May-2021 18:12:05 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 29
+[18-May-2021 18:12:11 UTC] PHP Warning:  Use of undefined constant relatedPrograms - assumed 'relatedPrograms' (this will throw an Error in a future version of PHP) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 29
+[18-May-2021 18:12:11 UTC] PHP Stack trace:
+[18-May-2021 18:12:11 UTC] PHP   1. {main}() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:0
+[18-May-2021 18:12:11 UTC] PHP   2. require() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:17
+[18-May-2021 18:12:11 UTC] PHP   3. require_once() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[18-May-2021 18:12:11 UTC] PHP   4. include() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[18-May-2021 18:12:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 31
+[18-May-2021 18:16:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 30
+[18-May-2021 18:20:17 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 32
+[18-May-2021 18:20:18 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 32
+[18-May-2021 18:20:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 32
+[18-May-2021 18:21:02 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 32
+[18-May-2021 18:21:50 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 34
+[18-May-2021 18:22:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 34
+[18-May-2021 18:22:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 35
+[18-May-2021 18:22:20 UTC] PHP Stack trace:
+[18-May-2021 18:22:20 UTC] PHP   1. {main}() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:0
+[18-May-2021 18:22:20 UTC] PHP   2. require() /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php:17
+[18-May-2021 18:22:20 UTC] PHP   3. require_once() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-blog-header.php:19
+[18-May-2021 18:22:20 UTC] PHP   4. include() /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-includes/template-loader.php:106
+[18-May-2021 18:23:02 UTC] PHP Parse error:  syntax error, unexpected '!' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-event.php on line 39
+[19-May-2021 05:36:29 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 45
+[19-May-2021 05:36:32 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 45
+[19-May-2021 05:36:41 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 45
+[19-May-2021 05:36:41 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 45
+[19-May-2021 05:36:51 UTC] PHP Parse error:  syntax error, unexpected 'get_the_ID' (T_STRING), expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 47
+[19-May-2021 05:42:05 UTC] PHP Parse error:  syntax error, unexpected '/' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 51
+[19-May-2021 05:42:09 UTC] PHP Parse error:  syntax error, unexpected '/' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 51
+[19-May-2021 05:43:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 52
+[19-May-2021 05:43:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 52
+[19-May-2021 05:43:40 UTC] PHP Parse error:  syntax error, unexpected ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 51
+[19-May-2021 05:43:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 91
+[19-May-2021 05:43:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 91
+[19-May-2021 05:44:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 91
+[19-May-2021 05:45:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 91
+[19-May-2021 06:06:55 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 135
+[19-May-2021 06:09:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-program.php on line 107
+[19-May-2021 06:16:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 19
+[19-May-2021 06:16:34 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 19
+[19-May-2021 06:16:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 19
+[19-May-2021 06:16:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 19
+[19-May-2021 06:16:35 UTC] PHP Parse error:  syntax error, unexpected ',' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 19

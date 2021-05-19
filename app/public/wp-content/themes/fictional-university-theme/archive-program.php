@@ -11,22 +11,18 @@
     </div>  
   </div>
 
-  <div class="container container--narrow page-section">
-    <?php 
+    <div class="container container--narrow page-section">
+        <ul class="link-list min-list">
+            <?php 
+            while(have_posts()) {
+                the_post(); ?>
+                <li><a href="<?php the_permalink(); ?>"><?php echo the_title(); ?></a></li>
+            <?php }
 
-      while(have_posts()) {
-        the_post(); ?>
-        
-      <?php }
-
-        echo paginate_links();
-      
-    ?>
-    <hr class="section-break">
-    <p>Looking for a recap of past events? <a href="<?php echo site_url('/past-events') ?>">Check out our past events archive</a>.</p>
-  
-
-  </div>
+                echo paginate_links();
+            ?>
+        </ul>
+    </div>
 
   <?php get_footer();
 
