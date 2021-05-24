@@ -363,3 +363,25 @@ Stack trace:
 #2 /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php(17): require('/Users/seanjoyc...')
 #3 {main}
   thrown in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/single-professor.php on line 8
+[24-May-2021 05:29:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:29:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:30:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:32:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:48:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:49:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:51:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:53:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-May-2021 05:55:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-May-2021 05:56:16 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-May-2021 05:57:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 14
+[24-May-2021 05:58:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 05:58:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/functions.php on line 15
+[24-May-2021 06:03:44 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 5
+[24-May-2021 06:22:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 16
+[24-May-2021 06:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_template_part() in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php:15
+Stack trace:
+#0 /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-includes/template-loader.php(106): include()
+#1 /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-blog-header.php(19): require_once('/Users/seanjoyc...')
+#2 /Users/seanjoyce/Local Sites/fictional-university/app/public/index.php(17): require('/Users/seanjoyc...')
+#3 {main}
+  thrown in /Users/seanjoyce/Local Sites/fictional-university/app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 15
